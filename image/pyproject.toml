@@ -1,0 +1,22 @@
+[project]
+name = "workshops-image"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = []
+
+[project.optional-dependencies]
+experiments = [
+]
+
+[tool.uv]
+environments = [
+  "sys_platform == 'linux' and platform_machine == 'x86_64'",
+  "sys_platform == 'darwin'",
+]
+dev-dependencies = [
+    "basedpyright>=1.28.5",
+]
+python-preference = "only-system"
+index-strategy = "unsafe-best-match"
