@@ -167,11 +167,11 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1759215591,
-        "narHash": "sha256-KsOsuccgNQOGP9w3S+QqbXyVWeuYyZv2m0WB1DjwIsE=",
+        "lastModified": 1760785110,
+        "narHash": "sha256-KGfSNKnW2O0AP12sbUUHYjL7bHxSeUcnXEDzAULhAe4=",
         "owner": "dialohq",
         "repo": "x2container.nix",
-        "rev": "14c764b6ebbc3bd1c8c4a270cfce3a325de62745",
+        "rev": "6765dd61b942f8b9a31fd0050167b3859fdd35ac",
         "type": "github"
       },
       "original": {
